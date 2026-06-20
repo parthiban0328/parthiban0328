@@ -72,14 +72,14 @@ public class Parthiban {
 
 <div align="center">
 
-<a href="https://github.com/parthiban0328-github">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthiban0328-github&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/parthiban0328">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthiban0328&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/parthiban0328-github">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthiban0328-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/parthiban0328">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthiban0328&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
-<img src="https://streak-stats.demolab.com?user=parthiban0328-github&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=parthiban0328&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="48%"/>
 
 </div>
 
@@ -87,7 +87,7 @@ public class Parthiban {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthiban0328-github&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthiban0328&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -95,7 +95,7 @@ public class Parthiban {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=parthiban0328-github&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=parthiban0328&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 
 </div>
 
@@ -144,9 +144,9 @@ public class Parthiban {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Employee Management System](https://github.com/parthiban0328-github)** | React.js, Spring Boot, MySQL | Full-stack CRUD app with REST APIs built on MVC architecture; responsive UI with React.js + Bootstrap |
-| **[AI Resume Screening & ATS Analyzer](https://github.com/parthiban0328-github)** | Python, Streamlit, NLP | Parses resumes against job descriptions, generates ATS scores via keyword matching; live on Streamlit Cloud |
-| **[E-Commerce Web Application](https://github.com/parthiban0328-github)** | React.js, JavaScript | End-to-end product browsing, cart, and checkout flow with REST API integration |
+| **[Employee Management System](https://github.com/parthiban0328)** | React.js, Spring Boot, MySQL | Full-stack CRUD app with REST APIs built on MVC architecture; responsive UI with React.js + Bootstrap |
+| **[AI Resume Screening & ATS Analyzer](https://github.com/parthiban0328)** | Python, Streamlit, NLP | Parses resumes against job descriptions, generates ATS scores via keyword matching; live on Streamlit Cloud |
+| **[E-Commerce Web Application](https://github.com/parthiban0328)** | React.js, JavaScript | End-to-end product browsing, cart, and checkout flow with REST API integration |
 
 </div>
 
@@ -190,9 +190,9 @@ public class Parthiban {
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:parthiban.m0328@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthiban0328/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parthiban0328-github)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parthiban0328)
 
-<img src="https://komarev.com/ghpvc/?username=parthiban0328-github&style=flat-square&color=70a5fd" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=parthiban0328&style=flat-square&color=70a5fd" alt="Profile views"/>
 
 </div>
 
